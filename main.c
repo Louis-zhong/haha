@@ -3,6 +3,7 @@
 int main()
 {
 	printf("hello, world\n");
-	print("this is add by branch\n");
+	printf("this is add by branch\n");
+	printf("this is in branch 1\n");
 	return 1;
 }
